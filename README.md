@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek-Kr-jh
 - 👀 I’m interested in software devlopment 
-- 🌱 I’m currently learning software engineering 
+- 🌱 I’m currently learning java/opentelemetry/Newrelic 
 - 💞️ I’m looking to collaborate on software devlopment 
 - 📫 you can reach me on kumarabhishekjha17@gmail.com
 
