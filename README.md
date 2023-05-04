@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek-Kr-jh
 - 👀 I’m interested in software devlopment 
-- 🌱 I’m currently working as a software engineer1 
+- 🌱 I’m currently working as a SDE2
 - 💞️ I’m looking to collaborate on software devlopment 
 - 📫 you can reach me on kumarabhishekjha17@gmail.com
 
